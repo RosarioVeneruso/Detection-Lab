@@ -32,8 +32,8 @@ Questo progetto è stato realizzato come parte di una challenge del canale YouTu
   - [23 - Introduzione sul sistema di ticketing](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2023%20-Ticketing%20System.pdf)
   - [24 - Setup di osTicket](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2024%20-osTicket%20Setup.pdf)
   - [25 - Integrazione di osTicket con Elasticsearch e generazione di un ticket](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2025%20-osTicket%20%2B%20ELK%20Integration.pdf)
-  - [26 - Come investigare su attacchi Brute Force](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2026%20-Investigate%20SSH%20Brute%20Force%20Attack%20.pdf)
-  - [27 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
+  - [26 - Come investigare su attacchi Brute Force SSH](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2026%20-Investigate%20SSH%20Brute%20Force%20Attack%20.pdf)
+  - [27 - Come investigare su attacchi Brute Force RDP](https://github.com/RosarioVeneruso/Detection-lab/blob/74bbf4704291c02ecfedb170cbf56153c45911b3/Days/Day%2027%20-Investigate%20RDP%20Brute%20Force%20Attack.pdf)
+  - [28 - Come investigare sull'attività di Mythic](https://github.com/RosarioVeneruso/Detection-lab/blob/74bbf4704291c02ecfedb170cbf56153c45911b3/Days/Day%2028%20-Investigate%20Mythic%20Agent%20.pdf)
+  - [29 - Installazione dell'EDR Elastic Defend](https://github.com/RosarioVeneruso/Detection-lab/blob/74bbf4704291c02ecfedb170cbf56153c45911b3/Days/Day%2029%20-Elastic%20Defend%20Setup%20Tutorial.pdf)
+  - [30 - Situazioni di troubleshooting affrontate nel progetto](https://github.com/RosarioVeneruso/Detection-lab/blob/74bbf4704291c02ecfedb170cbf56153c45911b3/Days/Day%2030%20-Troubleshooting.pdf)
