@@ -1,6 +1,6 @@
 # SIEM - Detection Lab 🚀🔍
 
-Questo progetto è stato realizzato come parte di una challenge del canale YouTube **MYDFIR** e prevede la creazione di un laboratorio di **Detection** utilizzando lo stack **ELK**, un **C2 server** con Mythic, e un sistema di **ticketing** con osTicket. L'obiettivo è simulare scenari di attacco e configurare un'infrastruttura che consenta di monitorare, rilevare e rispondere agli incidenti di sicurezza.
+Questo progetto è stato realizzato come parte di una challenge del canale YouTube **MYDFIR** e prevede la creazione di un laboratorio completo di Detection e Response. Utilizzando lo stack **ELK**, un server di Command & Control (C2) basato su **Mythic**, e un sistema di ticketing con **osTicket**, il progetto si propone di simulare scenari realistici di attacco e risposta. L'infrastruttura configurata consente di acquisire e analizzare log provenienti da server **Windows** e **Linux**, monitorare attività come attacchi Brute Force e autenticazioni tramite RDP e SSH, e gestire alert e indagini tramite dashboard interattive e sistemi di ticketing. L'obiettivo finale è costruire un ambiente pratico per imparare a monitorare, rilevare, investigare e rispondere a incidenti di sicurezza informatica.
 
 ---
 
