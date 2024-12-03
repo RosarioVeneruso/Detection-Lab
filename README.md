@@ -17,18 +17,23 @@ Questo progetto è stato realizzato come parte di una challenge del canale YouTu
   - [08 - Sysmon: monitoraggio degli eventi sul server Windows](https://github.com/RosarioVeneruso/Detection-lab/blob/c29a027dadb16460b28a710a55a9a9468cd54165/Days/Day%208%20-%20Sysmon.pdf)
   - [09 - Setup di Sysmon](https://github.com/RosarioVeneruso/Detection-lab/blob/c29a027dadb16460b28a710a55a9a9468cd54165/Days/Day%209%20-%20Sysmon%20Setup.pdf)
   - [10 - Acquisizione dei log di Sysmon e Windows Defender e trasmissione ad Elasticsearch tramite agent](https://github.com/RosarioVeneruso/Detection-lab/blob/c29a027dadb16460b28a710a55a9a9468cd54165/Days/Day%2010%20-%20Elasticsearch%20Ingest%20Data.pdf)
+  - [11 - Cos'è un attacco Brute Force](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2011%20-%20Brute%20Force%20Attack.pdf)
+  - [12 - Setup del server Ubuntu](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2012%20-%20Ubuntu%20Server%2024.02%20Installation.pdf)
+  - [13 - Setup dell' Elastic agent sul server Ubuntu](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2013%20-%20Elastic%20Agent%20on%20Ubuntu.pdf)
+  - [14 - Rilevazione attività di Brute Force sul server Ubuntu](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2014%20-%20Create%20Alerts%20and%20Dashboards%20in%20Kibana.pdf)
+  - [15 - Introduzione sul servizio RDP](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2015%20-%20Remote%20Desktop%20Protocol%20.pdf)
+  - [16 - Rilevazione eventi relativi all'autenticazione su server Windows e Ubuntu](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2016%20-%20Create%20Alerts%20and%20Dashboards%20parte%202.pdf)
+  - [17 - Creazione dashboard per l'attività di autenticazione tramite RDP e SSH sui server Windows e Ubuntu](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2017%20-%20Create%20Alerts%20and%20Dashboards%20parte%203.pdf)
+  - [18 - Introduzione al Command & Control](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2018%20-%20Command%20and%20Control%20Introduction.pdf)
+  - [19 - Diagramma di attacco sul server Windows](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2019%20-%20Attack%20Diagram.pdf)
+  - [20 - Setup di un server Mythic](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2020%20-%20Mythic%20Server%20Setup.pdf)
+  - [21 - Installazione dell'agent di Mythic sulla macchina attaccata](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2021%20-%20Mythic%20Agent%20Setup.pdf)
+  - [22 - Creazione di alert e dashboard basati sulla telemetria generata da Mythic](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2022%20-%20Create%20Alerts%20and%20Dashboards%20in%20Kibana%20-%20parte%204.pdf)
+  - [23 - Introduzione sul sistema di ticketing](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2023%20-Ticketing%20System.pdf)
+  - [24 - Setup di osTicket](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2024%20-osTicket%20Setup.pdf)
+  - [25 - Integrazione di osTicket con Elasticsearch e generazione di un ticket](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2025%20-osTicket%20%2B%20ELK%20Integration.pdf)
+  - [26 - Come investigare su attacchi Brute Force](https://github.com/RosarioVeneruso/Detection-lab/blob/8ecdfe8ed8ef126d63acb88ffac8e91534cde1fd/Days/Day%2026%20-Investigate%20SSH%20Brute%20Force%20Attack%20.pdf)
+  - [27 - Sysmon: monitoraggio degli eventi sul server Windows]
   - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
   - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
   - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - [09 - Sysmon: monitoraggio degli eventi sul server Windows]
-  - 
