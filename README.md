@@ -1,6 +1,6 @@
 # SIEM - Detection Lab 🚀🔍
 
-Questo progetto è stato realizzato come parte di una challenge del canale YouTube **MYDFIR** e prevede la creazione di un laboratorio completo di Detection e Response. Utilizzando lo stack **ELK**, un server di Command & Control (C2) basato su **Mythic**, e un sistema di ticketing con **osTicket**, il progetto si propone di simulare scenari realistici di attacco e risposta. L'infrastruttura configurata consente di acquisire e analizzare log provenienti da server **Windows** e **Linux**, monitorare attività come attacchi Brute Force e autenticazioni tramite RDP e SSH, e gestire alert e indagini tramite dashboard interattive e sistemi di ticketing. L'obiettivo finale è costruire un ambiente pratico per imparare a monitorare, rilevare, investigare e rispondere a incidenti di sicurezza informatica.
+Questo progetto è stato realizzato come parte di una challenge del canale YouTube **MYDFIR** e prevede la creazione di un laboratorio di Detection e Response sul cloude provider **Vultr**. Utilizzando lo stack **ELK**, un server di Command & Control (C2) basato su **Mythic**, e un sistema di ticketing con **osTicket**, il progetto si propone di simulare scenari realistici di attacco e risposta. L'infrastruttura configurata consente di acquisire e analizzare log provenienti da server **Windows** e **Linux**, monitorare attività come attacchi Brute Force e autenticazioni tramite RDP e SSH, e gestire alert e indagini tramite dashboard interattive e sistemi di ticketing. L'obiettivo finale è costruire un ambiente pratico per imparare a monitorare, rilevare, investigare e rispondere a incidenti di sicurezza informatica.
 
 ---
 
@@ -9,13 +9,13 @@ Questo progetto è stato realizzato come parte di una challenge del canale YouTu
 - Progettazione dell'archittetura di rete adottata su **Drawio**
 - Creazione di una VPC sul cloud provider **Vultr** e deployment di un server con **Elasticsearch** e **Kibana**
 - Inserimento all'interno della VPC di un Fleet Server
-- Deployment di un server **Windows** e di un server Ubuntu al di fuori della VPC
+- Deployment di un server **Windows** e di un server **Ubuntu** al di fuori della VPC
 - Installazione Elastic agents su tali macchine (al fine di monitorare l'attività di queste)
-- Simulazione tentativi di autenticazione su tali macchine, generazione di alert su Elasticsearch
+- Simulazione tentativi di autenticazione su tali macchine, generazione di alert su **Elasticsearch**
 - Creazione di Dashboard su **Kibana** per la visualizzazione di tali eventi in forma grafica
 - Creazione di un Diagramma di Attacco su **Drawio** e sua implementazione tramite **Mythic**
 - Installazione Mythic Agent tramite **Kali Linux** sulla macchina attaccata
-- Creazione di un sistema di ticketing tramite il setup di osTicket
+- Creazione di un sistema di ticketing tramite il setup di **osTicket**
 - Attività investigativa relativa a attacchi Brute Force
 - Setup dell'EDR **'Elastic Defend'** e suo utilizzo
 - Troubleshooting
