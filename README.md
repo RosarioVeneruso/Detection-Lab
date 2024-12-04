@@ -6,13 +6,21 @@ Questo progetto è stato realizzato come parte di una challenge del canale YouTu
 
 # Fasi operative del progetto:
 
-- Progettazione dell'archittetura di rete utilizzata
-- Predisposizione di una VPC sul cloud provider **Vultr** e deployment di un server con Elasticsearch e Kibana
+- Progettazione dell'archittetura di rete adottata su Drawio
+- Creazione di una VPC sul cloud provider **Vultr** e deployment di un server con Elasticsearch e Kibana
 - Inserimento all'interno della VPC di un Fleet Server
-- Predisposizione di un server Windows e di un server Ubuntu al di fuori della VPC
-- Installazione Elastic agents su tali macchine al fine di monitorare l'attività di queste
+- Deployment di un server Windows e di un server Ubuntu al di fuori della VPC
+- Installazione Elastic agents su tali macchine (al fine di monitorare l'attività di queste)
 - Simulazione tentativi di autenticazione su tali macchine, generazione di alert su Elasticsearch
-- 
+- Creazione di Dashboard su Kibana per la visualizzazione di tali eventi in forma grafica
+- Creazione di un Diagramma di Attacco e sua implementazione tramite Mythic
+- Creazione di un sistema di ticketing tramite il setup di osTicket
+- Attività investigativa relativa a attacchi Brute Force
+- Setup dell'EDR 'Elastic Defend' e suo utilizzo
+- Troubleshooting
+
+---
+
 ## 📁 Struttura del Repository
 
 - `Days/`: Contiene la documentazione completa delle fasi del progetto in formato PDF.
